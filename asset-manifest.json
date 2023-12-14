@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "//victorchei.github.io/demo-ui/static/css/main.f745977e.css",
+    "main.js": "//victorchei.github.io/demo-ui/static/js/main.4f69c1df.js",
+    "index.html": "//victorchei.github.io/demo-ui/index.html",
+    "main.f745977e.css.map": "//victorchei.github.io/demo-ui/static/css/main.f745977e.css.map",
+    "main.4f69c1df.js.map": "//victorchei.github.io/demo-ui/static/js/main.4f69c1df.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f745977e.css",
+    "static/js/main.4f69c1df.js"
+  ]
+}
